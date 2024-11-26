@@ -4,6 +4,16 @@
 #include <stdlib.h>
 #include <string.h>
 
+
+//int i,j;
+//for(i=1; i <= 5; i++) {
+    //for(j=1; j <= i;j++) {
+      //printf("*");  
+    //}
+    //printf("\n");
+//}
+
+
 #define MAX_BOOKS 100
 
 struct Book {
